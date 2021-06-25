@@ -1,0 +1,76 @@
+.Title {
+  width: 18.125rem;
+  height: 16.875rem;
+  /* background-color: #fbda90; */
+  margin-top: 5rem;
+  float: left;
+}
+.NavHiddenList .Title:first-child {
+  margin-left: 1.875rem;
+}
+.NavHiddenList .Title:nth-child(5) {
+  margin-left: 1.875rem;
+}
+.Title p {
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+.Title span {
+  font-size: 1.125rem;
+  font-weight: 400;
+  font-family: "Segoe UI";
+  line-height: 2rem;
+  letter-spacing: 0.03125rem;
+  display: block;
+}
+.TitleBottom {
+  margin-top: 30px;
+  /* background-color:#000; */
+}
+
+.TitleBottom2 {
+  height: auto;
+}
+.TitleBottom3 {
+  position: relative;
+  left: -0.75rem;
+  margin-left: -17.375rem;
+}
+.TitleBottom4 {
+  margin-top: -14.3rem;
+  margin-right: 0;
+  margin-left: 56.3rem;
+}
+.whole {
+  width: 33.9375rem;
+  height: 2.5rem;
+  /* background-color: #007f5b; */
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  bottom: 0.625rem;
+  margin-left: -17rem;
+  border-radius: 1.25rem;
+  text-align: center;
+  border: 0.0625rem solid #000;
+}
+.y {
+  width: 2.25rem;
+  height: 2.25rem;
+  border: 0.0625rem solid #384867;
+  border-radius: 50%;
+  /* background-color: #a39fa2; */
+  float: left;
+  position: relative;
+  left: 14.375rem;
+  top: 0.5px;
+}
+
+.y span {
+  text-align: center;
+}
+.w {
+  margin-left: 3rem;
+  margin-top: 0.25rem;
+  display: inline-block;
+}

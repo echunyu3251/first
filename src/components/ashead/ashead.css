@@ -1,0 +1,188 @@
+.logo {
+  width: 230px;
+  height: 90px;
+  float: left;
+  display: flex;
+  align-items: center;
+}
+.logo_img {
+  width: 100%;
+  object-fit: cover;
+}
+.middle {
+  width: 431px;
+  height: 90px;
+  margin-left: 85px;
+  float: left;
+}
+
+#search {
+  width: 450px;
+  height: 2.5rem;
+  position: relative;
+  margin-top: 25px;
+}
+.text {
+  width: 416px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background-color: #efefef;
+  padding-left: 16px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.submit {
+  display: block;
+  position: absolute;
+  right: 30px;
+  top: 5px;
+  border: none;
+}
+
+.submit_img {
+  width: 30px;
+  height: 30px;
+}
+.group {
+  width: 120px;
+  height: 90px;
+  margin-left: 11.2px;
+  float: left;
+  position: relative;
+  /* background-color: aqua; */
+}
+
+.group_input {
+  width: 124.8px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background-color: #efefef;
+  position: absolute;
+  top: 25.6px;
+}
+
+.group_button {
+  position: absolute;
+  top: 32px;
+  border: none;
+  left: 16px;
+}
+
+.group_text {
+  font-size: 14px;
+  font-family: "Segoe UI";
+  font-weight: "Semi Bold";
+  font-weight: 600;
+  position: absolute;
+  top: 8px;
+  border: none;
+  left: 40px;
+  color: #384867;
+}
+.car {
+  width: 134.4px;
+}
+
+#group_car {
+  width: 136px;
+}
+
+#group_car_text {
+  width: 80px;
+  display: inline-block;
+  left: 2rem;
+}
+
+.mail {
+  width: 160px;
+  height: 90px;
+  float: right;
+}
+
+.mail_text {
+  font-size: 22.4px;
+  font-family: "Segoe UI";
+  font-weight: "Semi Bold";
+  line-height: 96px;
+}
+
+@media (max-width: 850px) {
+  .middle {
+    width: 450px;
+    margin-left: 10px;
+    float: left;
+  }
+  #search {
+    width: 450px;
+    margin-top: 20px;
+  }
+  .text {
+    height: 50px;
+    padding-left: 30px;
+    font-size: 24px;
+  }
+  .submit {
+    top: 8px;
+  }
+  #group {
+    width: 160px;
+  }
+  .group_input {
+    height: 50px;
+    margin-top: -6px;
+  }
+  .group_button {
+    margin-top: -3px;
+  }
+  .group_text {
+    font-size: 18px;
+    margin-top: -3.5px;
+  }
+  .mail {
+    width: 220px;
+  }
+  .mail_text {
+    font-size: 28px;
+    line-height: 83px;
+  }
+}
+@media (max-width: 570px) {
+  .group_text {
+    font-size: 20px;
+    font-family: "Segoe UI";
+    font-weight: "Semi Bold";
+    font-weight: 600;
+    position: absolute;
+    border: none;
+    left: 2rem;
+    color: #384867;
+    margin-top: -3.5px;
+  }
+  .group_input {
+    width: 130px;
+  }
+  #group_car {
+    margin-left: 15px;
+    width: 130px;
+  }
+  #group_car_text {
+    margin-left: 5px;
+  }
+  #car_img {
+    margin-right: -60px;
+  }
+  .group_button {
+    margin-top: -3px;
+    margin-left: 3px;
+  }
+  .mail {
+    width: 200px;
+  }
+  .mail_text {
+    font-size: 28px;
+    line-height: 83px;
+  }
+}

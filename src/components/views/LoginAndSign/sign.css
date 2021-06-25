@@ -1,0 +1,271 @@
+#app {
+  color: #091d44;
+}
+.login_box {
+  position: relative;
+  width: 75rem;
+  height: 2.5rem;
+}
+.logo {
+  width: 100%;
+  height: 5.625rem;
+}
+.logo img {
+  width: 14.375rem;
+  height: 5.3125rem;
+  object-fit: cover;
+}
+.forgetPassword {
+  width: 75rem;
+  height: 3.75rem;
+  margin-top: 2.125rem;
+}
+.forgetPassword p {
+  font-size: 2.5rem;
+  font-weight: 600;
+  font-family: "Segoe UI";
+  color: #091d44;
+  letter-spacing: 0.15rem;
+}
+.p {
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: "Segoe UI";
+  letter-spacing: 0.05rem;
+  margin-top: 3.125rem;
+}
+.p span {
+  display: inline-block;
+  width: 3.125rem;
+  height: 1.25rem;
+  text-align: center;
+  line-height: 1.25rem;
+  background-color: #dd2203;
+  color: #fff;
+  margin: 0 0.9375rem 0 0.9375rem;
+}
+.titleSpan {
+  display: block;
+  margin-top: 2.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: "Segoe UI";
+  letter-spacing: 0.0625rem;
+}
+.information {
+  width: 75rem;
+  height: 20.675rem;
+  border-top: 0.1875rem solid #707070;
+  margin-top: 1.25rem;
+}
+.number {
+  width: 75rem;
+  height: 8.125rem;
+  border-bottom: 0.0625rem #7e889d solid;
+  margin-top: 3.125rem;
+  /* background-color: cadetblue; */
+}
+.number_box {
+  width: 18.75rem;
+  height: 8.125rem;
+  background-color: #dddddd;
+  float: left;
+}
+.telephone {
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: "Segoe UI";
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: .125rem;
+}
+.must {
+  display: inline-block;
+  width: 3.125rem;
+  height: 1.25rem;
+  text-align: center;
+  line-height: 1.25rem;
+  background-color: #dd2203;
+  float: right;
+  color: #fff;
+  font-size: 0.875rem;
+}
+.number_text {
+  float: left;
+  margin-top: 1.875rem;
+  margin-left: 1.25rem;
+  width: 41.562rem;
+  height: 2.625rem;
+  border-radius: 0.25rem;
+  border: .0625rem solid #000;
+  padding-left: 0.8125rem;
+  font-size: 0.875rem;
+}
+.address {
+  width: 75rem;
+  height: 8.125rem;
+}
+.address_box {
+  width: 18.75rem;
+  height: 8.125rem;
+  background-color: #dddddd;
+  float: left;
+}
+.address_span {
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: "Segoe UI";
+  display: inline-block;
+  margin-top: .3125rem;
+  margin-left: .125rem;
+
+}
+.address_text {
+  float: left;
+  margin-top: 1.875rem;
+  margin-left: 1.25rem;
+  width: 41.562rem;
+  height: 2.625rem;
+  border-radius: 0.25rem;
+  border: .0625rem #000 solid;
+  padding-left: 0.8125rem;
+  font-size: 0.875rem;
+}
+.address p{
+  float: left;
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: "Segoe UI";
+  letter-spacing: 0.05rem;
+  margin:1.5625rem 0 0 1.5625rem;
+}
+.password {
+  width: 75rem;
+  height: 21.875rem;
+  border-top: 0.1875rem solid #707070;
+  margin-top: 1.25rem;
+
+}
+.a{
+  width: 34.375rem;
+  height: 5.625rem;
+}
+.a p{
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: "Segoe UI";
+  line-height:2.3125rem;
+  margin-top:-0.3125rem;
+  margin-left: .1875rem;
+  
+}
+
+.passw_{
+  width: 75rem;
+  height: 14.0625rem;
+  margin-top:2.5rem;
+  border-bottom: 0.0625rem #7e889d solid;
+}
+.passw_box {
+  width: 18.75rem;
+  height: 14.0625rem;
+  background-color: #dddddd;
+  float: left;
+
+}
+.passw_p{
+  width:45.625rem;
+  height:8.75rem;
+  float:left;
+  margin-left:1.3rem;
+
+}
+.passw_p p{
+  display:block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: "Segoe UI";
+  line-height: 1.75rem;
+  letter-spacing: .05rem;
+}
+.Membership_terms{
+  display:block;
+  
+}
+.terms{
+  width:75rem;
+  height:13.125rem;
+  border-top:3px solid #707070;
+  margin-top: 1.25rem;
+}
+.b{
+  width: 75rem;
+  height: 1.5625rem;
+}
+.b p{
+  
+  font-weight:700;
+  font-size:1rem;
+}
+.terms_number{
+  height:100px;
+  border:none;
+}
+.terms_number_box{
+  height:100px;
+
+}
+.terms_number p{
+  width:600px;
+  height:35px;
+  display: block;
+  float: left;
+  font-size: .875rem;
+  font-weight: 800;
+  font-family: "Segoe UI";
+  line-height: 1.75rem;
+  letter-spacing: .05rem;
+  margin-left:25px;
+  margin-top: .9375rem;
+}
+.terms_number img{
+width: 1.875rem;
+height: 1.875rem;
+position: relative;
+top: .625rem;
+padding-right: 1rem;
+}
+.p2{
+  position: relative;
+  top: -0.625rem;
+}
+.button_box{
+  width:800px;
+  height:160px;
+  margin:0 auto;
+  display:flex;
+  justify-content: space-between;
+  margin-top: .625rem;
+}
+.button_box button{
+  width: 18.75rem;
+  height: 3.75rem;
+}
+.return{
+  border: none;
+  background-color:#cfcfcf ;
+  color: #fff;
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: .125rem;
+}
+.det{
+  border: none;
+  background-color:#007f5b ;
+  color: #fff;
+  font-size: 1.625rem;
+  font-weight: 700;
+  letter-spacing: .125rem;
+}

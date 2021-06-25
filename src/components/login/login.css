@@ -1,0 +1,91 @@
+.login {
+    width: 10rem;
+    height: 2.5rem;
+    float: right;
+  }
+  .login_img {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .login_text1 {
+    /* font-size: 0.9rem; */
+    font-size: 14px;
+    font-family: "Segoe UI";
+    font-weight: 600;
+    margin-left: 0.5rem;
+    line-height: 1.65rem;
+    position: absolute;
+    border-right: 0.125rem solid #384867;
+    height: 1.7rem;
+    margin-top: 0.5rem;
+    padding-right: 0.8rem;
+  }
+  .login_text2 {
+    position: absolute;
+    line-height: 2.6875rem;
+    right: 0;
+    font-size: 0.875rem;
+    font-family: "Segoe UI";
+    font-weight: 600;
+  }
+  @media (max-width:850px){
+    /* .login_img {
+      width: 2.8rem;
+      height: 2.8rem;
+    } */
+    .login {
+      width: 210px;
+      height: 2.5rem;
+      float: right;
+    }
+    .login_text1 {
+      font-size: 20px;
+      font-family: "Segoe UI";
+      font-weight: 600;
+      margin-left: 1.5rem;
+      line-height: 1.65rem;
+      position: absolute;
+      border-right: 0.125rem solid #384867;
+      height: 1.7rem;
+      margin-top: 0.5rem;
+      padding-right: 0.8rem;
+    }
+    .login_text2 {
+      position: absolute;
+      line-height: 2.6875rem;
+      right: 0;
+      font-size: 20px;
+      font-family: "Segoe UI";
+      font-weight: 600;
+    }
+    
+  }
+  @media (max-width:570px){
+    
+    .login {
+      width: 250px;
+      height: 2.5rem;
+      float: right;
+    }
+    .login_text1 {
+      font-size: 26px;
+      font-family: "Segoe UI";
+      font-weight: 600;
+      margin-left: 1.5rem;
+      line-height: 1.65rem;
+      position: absolute;
+      /* right: 30px; */
+      border-right: 0.125rem solid #384867;
+      height: 1.7rem;
+      margin-top: 0.5rem;
+      padding-right: 0.8rem;
+    }
+    .login_text2 {
+      position: absolute;
+      line-height: 2.6875rem;
+      right: 5px;
+      font-size: 26px;
+      font-family: "Segoe UI";
+      font-weight: 600;
+    }
+  }

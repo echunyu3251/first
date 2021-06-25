@@ -1,0 +1,147 @@
+
+
+.time1 {
+    width: 100%;
+    height: 5.8125rem;
+    background-color: #fff6e2;
+    margin-top: 5rem;
+    border-radius: 1.125rem 1.125rem 0 0;
+    position: relative;
+  }
+  
+  .time1_a {
+    width: 100%;
+    height: 2.875rem;
+    position: absolute;
+    bottom: 1rem;
+    font-size: 1.5rem;
+    font-family: "Segoe UI";
+    font-weight: 400;
+    float: left;
+  }
+  
+  .time1_a_TK {
+    width: 19.375rem;
+    height: 100%;
+    float: left;
+    text-align: left;
+    line-height: 2rem;
+    margin-left: 1.5rem;
+  }
+  
+  .time1_a_SA {
+    width: 19.375rem;
+    height: 100%;
+    float: right;
+    text-align: right;
+    line-height: 2rem;
+    margin-right: 2rem;
+  }
+  
+  .time_list1 {
+    width: 100%;
+    height: 30.3125rem;
+    margin-top: 1.5625rem;
+  }
+  
+  .time_list1_top {
+    width: 100%;
+    height: 15rem;
+  }
+  
+  .time_list1_top_1 {
+    width: 17.5625rem;
+    height: 15.0625rem;
+    border: 0.125rem #fbda90 solid;
+    margin-left: 1.28rem;
+    float: left;
+  }
+  
+  .time_list1_top .time_list1_top_1:first-child {
+    margin-left: -0.09375rem;
+  }
+  
+  .time_list1_top_1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .time1_b {
+    width: 26.625rem;
+    height: 1rem;
+    background-color: #091d44;
+    border-radius: 0.8rem 0.8rem 0 0;
+    position: absolute;
+    bottom: 0;
+  }
+  
+  .time_list1_bottom {
+    width: 100%;
+    height: 15.0625rem;
+  }
+  
+  .time_list1_bottom1 {
+    width: 17.5625rem;
+    height: 15.0625rem;
+    background-color: #fbda90;
+    border: 0.125rem #fbda90 solid;
+    float: left;
+    margin-left: 1.28rem;
+  }
+  
+  .time_list1_bottom .time_list1_bottom1:first-child {
+    margin-left: -0.09375rem;
+  }
+  .time_list1_bottom1_text {
+    width: 15rem;
+    height: 7.5rem;
+    font-size: 1.125rem;
+    font-family: "Segoe UI";
+    font-weight: 400;
+    line-height: 1.4375rem;
+    margin: 1.875rem 0 0 1.25rem;
+  }
+  .time_list1_bottom1_AddCart {
+    text-align: center;
+    font-size: 1.375rem;
+    font-family: "Segoe UI";
+    font-weight: 400;
+    margin-top: 0.5rem;
+  }
+  .AddCart {
+    display: inline-block;
+    width: 9.625rem;
+    height: 1.75rem;
+    border-radius: 1.125rem;
+    background-color: #007f5b;
+    color: #fff;
+    margin-top: 0.875rem;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+  .time2 {
+    width: 100%;
+    height: 5.8125rem;
+    background-color: #fff6e2;
+    margin-top: 3.75rem;
+    border-radius: 1.125rem 1.125rem 0 0;
+  }
+  
+  .time_list2 {
+    width: 100%;
+    height: 30.3125rem;
+    margin-top: 1.5625rem;
+  }
+  
+  .time_list1_top_1 {
+    width: 17.5625rem;
+    height: 14.8rem;
+    border: 0.125rem #fbda90 solid;
+    margin-left: 1.28rem;
+    float: left;
+  }
+  
+  .time_list1_top .time_list1_top_1:first-child {
+    margin-left: -0.1rem;
+  }
